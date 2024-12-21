@@ -27,8 +27,8 @@ At **ZeroDefect**, we strive to:
 | **204075R** | Yukthi Hettiarachchi | [yukthi2000](https://github.com/yukthi2000) | 🛡️ Owner |  
 | **204076V** | Chethiya Hitihamu    | [ChethiyaNuwan](https://github.com/ChethiyaNuwan) | 🛡️ Owner |  
 | **204161D** | Geethaka Pitigala    | [geethaka-pitigala](https://github.com/geethaka-pitigala) | 🛡️ Owner |  
-| **204021B** | Harshana Batagalla   | [harshanabatagalla](https://github.com/harshanabatagalla) | 👤 Member |  
-| **205050U** | Minushika Kapuwaththa | [MinushikaKapuwaththa](https://github.com/MinushikaKapuwaththa) | 👤 Member |  
+| **204021B** | Harshana Batagalla   | [harshanabatagalla](https://github.com/harshanabatagalla) | 🛡️ Owner |  
+| **205050U** | Minushika Kapuwaththa | [MinushikaKapuwaththa](https://github.com/MinushikaKapuwaththa) | 🛡️ Owner |  
 | **204062B** | Sandeepani Gunasekara | *(No Public Profile)* | 🛡️ Owner |  
 
 We are a team of **dedicated professionals** who thrive on collaboration, innovation, and relentless pursuit of software excellence.  
