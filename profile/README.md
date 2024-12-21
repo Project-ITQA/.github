@@ -43,10 +43,3 @@ We are a team of **dedicated professionals** who thrive on collaboration, innova
 
 ✅ Commitment to delivering **high-quality, reliable software**.  
 
----
-
-## 📫 **Connect With Us**  
-For inquiries, collaborations, or just to say hi:  
-📧 **[Contact Us](mailto:contact@zerodefect.qa)**  
-
-Let’s build **a future where every software release is flawless!** 🚀  
