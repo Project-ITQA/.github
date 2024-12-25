@@ -30,7 +30,7 @@ At **ZeroDefect**, we strive to:
 | **204048M** | Lochana Dissanayake    | [Lochanadisaa](https://github.com/Lochanadisaa) | 🛡️ Owner | 
 | **204021B** | Harshana Batagalla   | [harshanabatagalla](https://github.com/harshanabatagalla) | 🛡️ Owner |  
 | **205050U** | Minushika Kapuwaththa | [MinushikaKapuwaththa](https://github.com/MinushikaKapuwaththa) | 🛡️ Owner |  
-| **204062B** | Sandeepani Gunasekara | *(No Public Profile)* | 🛡️ Owner |  
+| **204062B** | Sandeepani Gunasekara | [SandeepaniGunasekara](https://github.com/SandeepaniGunasekara) | 🛡️ Owner |  
 
 We are a team of **dedicated professionals** who thrive on collaboration, innovation, and relentless pursuit of software excellence.  
 
