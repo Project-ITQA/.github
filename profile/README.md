@@ -26,7 +26,8 @@ At **ZeroDefect**, we strive to:
 |-----------|------------------------|-------------------------|---------|  
 | **204075R** | Yukthi Hettiarachchi | [yukthi2000](https://github.com/yukthi2000) | 🛡️ Owner |  
 | **204076V** | Chethiya Hitihamu    | [ChethiyaNuwan](https://github.com/ChethiyaNuwan) | 🛡️ Owner |  
-| **204161D** | Geethaka Pitigala    | [geethaka-pitigala](https://github.com/geethaka-pitigala) | 🛡️ Owner |  
+| **204161D** | Geethaka Pitigala    | [geethaka-pitigala](https://github.com/geethaka-pitigala) | 🛡️ Owner | 
+| **204048M** | Lochana Dissanayake    | [Lochanadisaa](https://github.com/Lochanadisaa) | 🛡️ Owner | 
 | **204021B** | Harshana Batagalla   | [harshanabatagalla](https://github.com/harshanabatagalla) | 🛡️ Owner |  
 | **205050U** | Minushika Kapuwaththa | [MinushikaKapuwaththa](https://github.com/MinushikaKapuwaththa) | 🛡️ Owner |  
 | **204062B** | Sandeepani Gunasekara | *(No Public Profile)* | 🛡️ Owner |  
